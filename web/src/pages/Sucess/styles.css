@@ -1,0 +1,35 @@
+#sucess{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: #fff;
+  transition: 3s;
+}
+
+#sucess  span {
+  font-size: 180px;
+  width: 100%;
+  text-align: center;
+  color: #2FB86E;
+}
+
+#sucess a {
+  width: 100%;
+  max-width: 360px;
+  height: 72px;
+  background: #2FB86E;
+  color: #FFF;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: x-large;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 40px;
+}
